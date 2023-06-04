@@ -12,11 +12,11 @@
         height: 550px;
         width: 700px;
     }
-    #firstimage{
+    .firstimage{
     text-align: center;
     }
 
-    #secondimage{
+    .secondimage{
         text-align: center;
     }
     
