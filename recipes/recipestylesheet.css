@@ -1,12 +1,26 @@
 *{
-    background-color: rgba(66, 66, 69, 0.621);
+    background-color: rgb(33,33,33);
     font-family: "Courier New", Monaco, Sans-Serif;
+    color: white;
+    font-size: 20px;
     }
+html {
+    background-color: (33,33,33);
+}
     
     h1{
         text-align: center;
         font-size: 64px;
         color: red;
+        border-bottom: solid red;
+    }
+    h2{
+        text-align: center;
+        font-weight: bold;
+    }
+
+    p{
+        text-align: center;
     }
     img{
         height: 550px;
@@ -18,10 +32,12 @@
 
     .secondimage{
         text-align: center;
+        margin: 20px 
     }
     
     ul{
         list-style-type: none;
+        text-align: center;
     }
     
     .recipelist{

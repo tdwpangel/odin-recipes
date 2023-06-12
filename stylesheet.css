@@ -10,9 +10,9 @@ h1{
     text-align: center;
     font-size: 64px;
     color: rgb(255, 255, 255);
-    border: 2px solid rgb(255, 255, 255);
-    padding: 10px auto;
-    margin: 40px 370px;
+    border: 2px dotted rgb(255, 255, 255);
+    padding: 10px 20px;
+    margin: 50px 1000px;
     
 }
 img{
@@ -34,19 +34,19 @@ text-align: center;
 
 .mac
 {
-    border: solid white;
-    padding: 10px;
-    margin: 40px 320px 5px 320px;
+    border: solid black;
+    padding: 10px 20px;
+    margin: 40px 1000px 5px 1000px;
 }
 .pizza
 {
-    border: solid white;
+    border: solid black;
     padding: 10px;
-    margin: 5px 320px;
+    margin: 5px 1000px;
 
 }
 .eggs {
-    border: solid white;
+    border: solid black;
     padding: 10px;
-    margin: 5px 320px;
+    margin: 5px 1000px;
 }
