@@ -1,12 +1,19 @@
+html {
+    background-color: rgb(33, 33, 33);
+}
 *{
-background-color: rgba(66, 66, 69, 0.621);
+background-color: rgb(33, 33, 33);
 font-family: "Courier New", Monaco, Sans-Serif;
 }
 
 h1{
     text-align: center;
     font-size: 64px;
-    color: red;
+    color: rgb(255, 255, 255);
+    border: 2px solid rgb(255, 255, 255);
+    padding: 10px auto;
+    margin: 40px 370px;
+    
 }
 img{
     height: 550px;
@@ -23,4 +30,23 @@ ul{
 .recipelist{
 font-size: 24px;
 text-align: center;
+}
+
+.mac
+{
+    border: solid white;
+    padding: 10px;
+    margin: 40px 320px 5px 320px;
+}
+.pizza
+{
+    border: solid white;
+    padding: 10px;
+    margin: 5px 320px;
+
+}
+.eggs {
+    border: solid white;
+    padding: 10px;
+    margin: 5px 320px;
 }
